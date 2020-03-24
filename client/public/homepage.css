@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap');
+
+.banner-image {
+    background: url('banner-image.jpg');
+    width: 100%;
+	height: 550px;
+	justify-content: center;
+	align-items: center;
+	border-bottom: solid;
+}
+div.home .banner-image h1 {
+	font-size: 75px;
+	margin-bottom: 100px;
+	text-align: center;
+	color: #ffcc00;
+	font-family: 'Pacifico', cursive;
+	
+}
+
+.banner-content{
+	text-align: center;
+
+}
+
+.banner-content h1{
+	line-height: 30px;
+	margin-bottom: 100px;
+	color: #fc0;
+}
+
+.banner-content span{
+	color: #fff;
+	font-size: 30pt;
+	text-align: justify;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.banner-content p {
+	padding: 0 250px;
+	color: #F7C546;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	text-align: justify;
+	font-size: 15pt;
+}
